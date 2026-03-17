@@ -1,2 +1,8 @@
-# ZingFlow
-🤖 An enterprise level AI Agent workflow orchestration platform
+# ⭐ ZingFlow
+
+## 项目简介
+
+ZingFlow 是一个企业级 AI Agent 工作流编排平台，支持通过可视化方式编排大模型节点、插件和控制流逻辑。用户可以通过拖拽方式构建 AI 工作流，实现多模型协同调用与自动化执行。
+
+系统基于微服务架构，集成多种大模型能力，提供工作流设计、调试与发布的全流程管理。
+
